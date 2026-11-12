@@ -78,3 +78,5 @@ Add your entry below (keep the format consistent):
 
 <!-- Example:
 - **Jane Doe** — Access confirmed, ready to contribute.
+
+Tom Malter: I have access
