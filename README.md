@@ -1,4 +1,15 @@
 # connect-app
-CECS 491A Connect team project — app implementation
 
-Add a comment to show that you have access below, with your name, first pull the repo on your local editor, edit the Readme and pull the new version with your comment.
+**CECS 491A Connect** — Team project app implementation
+
+---
+
+## Team Access Check
+
+To confirm you have access to this repository, follow the steps below and add your name at the bottom of this file.
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/ungleicch/connect-app.git
+cd connect-app
