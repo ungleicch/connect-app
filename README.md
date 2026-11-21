@@ -81,3 +81,4 @@ Add your entry below (keep the format consistent):
 -->
 
 - **Tom Malter** — Access confirmed, ready to contribute.
+- **Matthew Bennett** — Access confirmed, ready to contribute.
