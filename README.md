@@ -84,3 +84,4 @@ Add your entry below (keep the format consistent):
 - **Matthew Bennett** — Access confirmed, ready to contribute.
 - **Minh An Nguyen** — Access confirmed, ready to contribute.
 - **Sean Johnston** — Access confirmed, ready to contribute.
+- **Raul Vargas** — Access confirmed, ready to contribute.
